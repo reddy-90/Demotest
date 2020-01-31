@@ -1,9 +1,5 @@
 # Demotest
 
-
-<h1>hwllo world </h1>
-<h2>my new code</h2>
-
 using System;  
 public class ArrayExample  
 {  
